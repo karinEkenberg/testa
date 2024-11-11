@@ -3,7 +3,9 @@
 
 
 
-A simple web project built with Vite, styled with Tailwind CSS, and set up with ESLint for linting. This project demonstrates basic HTML structure, navigation, and responsive images with hover effects. The site is designed for easy deployment on GitHub Pages.
+A simple web project built with Vite, styled with Tailwind CSS, and set up with ESLint for linting.
+This project demonstrates basic HTML structure, navigation, and responsive images with hover effects.
+The site is designed for easy deployment on GitHub Pages.
 
 ## Features
 
@@ -136,10 +138,3 @@ The project includes ESLint for linting JavaScript code. You can configure ESLin
 
 Made by Karin Ekenberg. All rights reserved.
 ```
-
-### Key Points:
-1. **Vite**: This is used as the development tool and build system.
-2. **GitHub Pages**: Instructions on how to deploy your site to GitHub Pages are included.
-3. **ESLint**: Set up to lint your JavaScript files for better code quality.
-4. **Tailwind CSS**: Used for styling the site and creating responsive layouts.
-5. **Responsive Images**: The hover effect enlarges images slightly using Tailwind’s `scale-110` on hover.

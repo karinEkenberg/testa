@@ -137,4 +137,3 @@ The project includes ESLint for linting JavaScript code. You can configure ESLin
 ---
 
 Made by Karin Ekenberg. All rights reserved.
-```

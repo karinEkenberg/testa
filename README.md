@@ -1,10 +1,7 @@
 ```markdown
 # Testa Project
 
-## Screenshot
 
-
-![tessta](https://github.com/user-attachments/assets/a52e2f52-0111-4dde-8cd3-b20554adfd83)
 
 A simple web project built with Vite, styled with Tailwind CSS, and set up with ESLint for linting. This project demonstrates basic HTML structure, navigation, and responsive images with hover effects. The site is designed for easy deployment on GitHub Pages.
 
@@ -25,6 +22,11 @@ Follow these steps to set up the project locally:
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 ```
+
+## Screenshot
+
+
+![tessta](https://github.com/user-attachments/assets/a52e2f52-0111-4dde-8cd3-b20554adfd83)
 
 ### 2. Install Dependencies
 
